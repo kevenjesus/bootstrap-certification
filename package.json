@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-certification",
+  "version": "1.0.0",
+  "description": "Certification Course in Bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APSantos-Pires/bootstrap-certification.git"
+  },
+  "keywords": [
+    "Certification",
+    "Course",
+    "Bootstrap 4",
+  ],
+  "author": "APSantos-Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/APSantos-Pires/bootstrap-certification/issues"
+  },
+  "homepage": "https://github.com/APSantos-Pires/bootstrap-certification#readme"
+}
