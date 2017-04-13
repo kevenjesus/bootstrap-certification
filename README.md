@@ -7,6 +7,15 @@
 - Welcome
   - Student area and certification: `completed`
 
+- Journey
+  - Introduction: `completed`
+  - Why use Bootstrap? `completed`
+  - Documentation: `completed`
+  - Desktop: `completed`
+
+- Workflow
+  - Node.js is cool: `completed`
+
 ## Student
 
 **[Anderson Pires](https://github.com/APSantos-Pires)**
@@ -19,7 +28,7 @@
 
 ## Version
 
-> Release: 1.0.1
+> Release: 1.0.2
 
 ## License
 
