@@ -3,7 +3,7 @@
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 
-// task to minify .scss files
+// task to compile .scss files
 gulp.task('sass', function () {
   return gulp.src('./source/scss/**/*.scss')
     .pipe(sass().on('error', sass.logError))
