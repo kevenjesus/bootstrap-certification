@@ -1,8 +1,14 @@
 {
   "name": "bootstrap-certification",
-  "version": "1.0.0",
-  "description": "Certification Course in Bootstrap 4",
+  "description": "Certification in Course Bootstrap 4",
+  "version": "1.0.1",
   "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +19,7 @@
   "keywords": [
     "Certification",
     "Course",
-    "Bootstrap 4",
+    "Bootstrap 4"
   ],
   "author": "APSantos-Pires",
   "license": "MIT",
