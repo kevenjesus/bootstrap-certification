@@ -1,7 +1,9 @@
 'use strict';
 
+// require functions
 var gulp = require('gulp');
 var sass = require('gulp-sass');
+var htmlmin = require('gulp-htmlmin');
 
 // task to compile .scss files
 gulp.task('sass', function () {
@@ -29,6 +31,13 @@ gulp.task('style', function () {
   return gulp.src('./source/scss/style.scss')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./dist/css/'))
+});
+
+// monitors file changes: index.html
+gulp.task('html', function() {
+  return gulp.src('index.html')
+    .pipe(htmlmin({collapseWhitespace: true}))
+    .pipe(gulp.dest('./dist'));
 });
 
 // runs the tasks automatically
