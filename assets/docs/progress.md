@@ -14,6 +14,7 @@
 - Workflow
   - Node.js is cool: `completed`
   - NPM: `completed`
-  - Bower: `in progress`
+  - Bower: `completed`
+  - Gulp: `in progress`
 
 > Release: 1.0.2
