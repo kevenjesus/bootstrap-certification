@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-certification",
+  "description": "Certification in Course Bootstrap 4",
+  "main": "index.js",
+  "authors": [
+    "APSantos-Pires"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Certification",
+    "Course",
+    "Bootstrap",
+    "4"
+  ],
+  "homepage": "https://github.com/APSantos-Pires/bootstrap-certification",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
