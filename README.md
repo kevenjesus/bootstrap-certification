@@ -4,17 +4,9 @@
 
 ## Progress of activities
 
-- Welcome
-  - Student area and certification: `completed`
+File with progress of activities: [progress.md](/assets/docs/progress.md).
 
-- Journey
-  - Introduction: `completed`
-  - Why use Bootstrap? `completed`
-  - Documentation: `completed`
-  - Desktop: `completed`
-
-- Workflow
-  - Node.js is cool: `completed`
+Current activity: `NPM`
 
 ## Student
 
