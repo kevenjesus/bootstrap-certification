@@ -15,4 +15,4 @@
   - Node.js is cool: `completed`
   - NPM: `in progress`
 
-> Release: 1.0.3
+> Release: 1.0.1
