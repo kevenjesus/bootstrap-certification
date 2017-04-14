@@ -15,6 +15,7 @@
   - Node.js is cool: `completed`
   - NPM: `completed`
   - Bower: `completed`
-  - Gulp: `in progress`
+  - Gulp: `completed`
+  - Practical activity: `in progress`
 
 > Release: 1.0.2

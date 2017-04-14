@@ -6,7 +6,7 @@
 
 File with progress of activities: [progress.md](/assets/docs/progress.md).
 
-Current activity: `Gulp`
+Current activity: `Practical activity`
 
 ## Student
 
