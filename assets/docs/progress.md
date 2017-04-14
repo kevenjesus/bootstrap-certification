@@ -13,6 +13,7 @@
 
 - Workflow
   - Node.js is cool: `completed`
-  - NPM: `in progress`
+  - NPM: `completed`
+  - Bower: `in progress`
 
-> Release: 1.0.1
+> Release: 1.0.2
