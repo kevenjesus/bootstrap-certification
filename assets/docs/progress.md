@@ -16,6 +16,9 @@
   - NPM: `completed`
   - Bower: `completed`
   - Gulp: `completed`
-  - Practical activity: `in progress`
+  - Practical activity: `completed`
+
+- Bonus
+  - Sublime text: `in progress`
 
 > Release: 1.0.2
