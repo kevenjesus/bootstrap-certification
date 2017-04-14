@@ -24,8 +24,16 @@ gulp.task('layout', function () {
     .pipe(gulp.dest('./dist/css/'))
 });
 
+// monitors file changes: style.scss
+gulp.task('style', function () {
+  return gulp.src('./source/scss/style.scss')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./dist/css/'))
+});
+
 // runs the tasks automatically
 gulp.task('sass:watch', function () {
   gulp.watch('./source/scss/base.scss', ['base']);
   gulp.watch('./source/scss/layout.scss', ['layout']);
+  gulp.watch('./source/scss/style.scss', ['style']);
 })
