@@ -19,6 +19,7 @@
   - Practical activity: `completed`
 
 - Bonus
-  - Sublime text: `in progress`
+  - Sublime text: `completed`
+  - Terminal: `in progress`
 
 > Release: 1.0.2
