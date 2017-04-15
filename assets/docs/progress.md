@@ -30,6 +30,7 @@
   - Variables: `completed`
   - Conditional: `completed`
   - Nesting: `completed`
-  - Heritage: `in progress`
+  - Heritage: `completed`
+  - Mixin: `in progress`
 
 > Release: 1.0.2
