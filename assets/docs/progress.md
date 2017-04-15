@@ -31,6 +31,7 @@
   - Conditional: `completed`
   - Nesting: `completed`
   - Heritage: `completed`
-  - Mixin: `in progress`
+  - Mixin: `completed`
+  - Placeholder: `in progress`
 
 > Release: 1.0.2

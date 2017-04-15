@@ -75,7 +75,7 @@
 
   .component-header {
     @extend .component-navbar;
-    @extend .col-md-6;
+    // @extend .col-md-6;
 
     background-color: #000;
   }
@@ -84,3 +84,43 @@
     @extend .component-navbar;
   }
 /* -------------------------------------------------- */
+
+/* mixin
+ * -------------------------------------------------- */
+  @mixin base_component {
+    width: 500px;
+    height: 100px;
+    float: left;
+  }
+
+  .component {
+    @include base_component;
+  }
+
+  .outro-component {
+    @include base_component;
+  }
+
+  // requires parameter
+  @mixin pessoa ( $cor-olho, $altura, $peso ) {
+    width: $peso;
+    height: $altura;
+    color: $cor-olho;
+  }
+
+  .joao {
+    @include pessoa( #000, 100px, 500px );
+  }
+
+  // default parameter ( report last )
+  @mixin pessoa ( $cor-olho, $altura, $peso: 80px ) {
+    width: $peso;
+    height: $altura;
+    color: $cor-olho;
+  }
+
+  .joao {
+    @include pessoa( #000, 100px );
+  }
+/* -------------------------------------------------- */
+

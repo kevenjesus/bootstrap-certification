@@ -38,3 +38,26 @@ h1 {
   background-color: #000; }
 
 /* -------------------------------------------------- */
+/* mixin
+ * -------------------------------------------------- */
+.component {
+  width: 500px;
+  height: 100px;
+  float: left; }
+
+.outro-component {
+  width: 500px;
+  height: 100px;
+  float: left; }
+
+.joao {
+  width: 500px;
+  height: 100px;
+  color: #000; }
+
+.joao {
+  width: 80px;
+  height: 100px;
+  color: #000; }
+
+/* -------------------------------------------------- */
