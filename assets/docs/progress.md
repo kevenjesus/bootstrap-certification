@@ -27,6 +27,7 @@
 
 - Bonus 2
   - Introduction: `completed`
-  - Variables: `in progress`
+  - Variables: `completed`
+  - Conditional: `in progress`
 
 > Release: 1.0.2
