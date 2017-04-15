@@ -1,4 +1,4 @@
 # list of files that should not be monitored
 
 help.txt
-assets/
+assets/test/workflow-sass/
