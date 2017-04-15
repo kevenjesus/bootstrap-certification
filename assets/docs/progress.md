@@ -18,10 +18,14 @@
   - Gulp: `completed`
   - Practical activity: `completed`
 
-- Bonus
+- Bonus 1
   - Sublime text: `completed`
   - Terminal: `completed`
   - Git: `completed`
-  - GitHub: `in progress`
+  - GitHub: `completed`
+  - Ebook: `completed`
+
+- Bonus 2
+  - Introduction: `in progress`
 
 > Release: 1.0.2
