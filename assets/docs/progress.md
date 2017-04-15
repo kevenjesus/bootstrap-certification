@@ -26,6 +26,7 @@
   - Ebook: `completed`
 
 - Bonus 2
-  - Introduction: `in progress`
+  - Introduction: `completed`
+  - Variables: `in progress`
 
 > Release: 1.0.2
