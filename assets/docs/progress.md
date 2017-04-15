@@ -29,6 +29,7 @@
   - Introduction: `completed`
   - Variables: `completed`
   - Conditional: `completed`
-  - Nesting: `in progress`
+  - Nesting: `completed`
+  - Heritage: `in progress`
 
 > Release: 1.0.2
