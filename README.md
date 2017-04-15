@@ -6,7 +6,7 @@
 
 File with progress of activities: [progress.md](/assets/docs/progress.md).
 
-Current activity: `Git`
+Current activity: `GitHub`
 
 ## Student
 
