@@ -20,6 +20,7 @@
 
 - Bonus
   - Sublime text: `completed`
-  - Terminal: `in progress`
+  - Terminal: `completed`
+  - Git: `in progress`
 
 > Release: 1.0.2
