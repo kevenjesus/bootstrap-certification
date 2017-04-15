@@ -124,3 +124,19 @@
   }
 /* -------------------------------------------------- */
 
+/* placeholder ( compiled only if used )
+ * -------------------------------------------------- */
+  %component {
+    width: 600px;
+    height: 100px;
+    float: left;
+  }
+
+  .perfil {
+    @extend %component;
+  }
+
+  .outro {
+    @extend %component;
+  }
+/* -------------------------------------------------- */
