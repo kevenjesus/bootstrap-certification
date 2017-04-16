@@ -33,7 +33,7 @@
   - Heritage: `completed`
   - Mixin: `completed`
   - Placeholder: `completed`
-  - Functions: `in progress`
-
+  - Functions: `completed`
+  - Layers: `in progress`
 
 > Release: 1.0.2

@@ -6,7 +6,7 @@
 
 File with progress of activities: [progress.md](/assets/docs/progress.md).
 
-Current activity: `Bonus 2: Functions`
+Current activity: `Bonus 2: Layers`
 
 ## Student
 

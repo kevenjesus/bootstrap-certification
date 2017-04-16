@@ -140,3 +140,24 @@
     @extend %component;
   }
 /* -------------------------------------------------- */
+
+/* function
+ * -------------------------------------------------- */
+  @function calc-algo() {
+    @return 20;
+  }
+
+  .component {
+    position: absolute;
+    left: calc-algo();
+  }
+
+  @function porcentagem( $porcentagem, $base ) {
+    @return ( $porcentagem * $base / 100 );
+  }
+
+  .component {
+    position: absolute;
+    left: porcentagem( 13.5, 1000 );
+  }
+/* -------------------------------------------------- */
