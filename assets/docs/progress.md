@@ -34,6 +34,7 @@
   - Mixin: `completed`
   - Placeholder: `completed`
   - Functions: `completed`
-  - Layers: `in progress`
+  - Layers: `completed`
+  - Practical Activity: `in progress`
 
 > Release: 1.0.2
