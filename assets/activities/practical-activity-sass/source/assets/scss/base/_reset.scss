@@ -1,0 +1,31 @@
+@import "../helpers/variables";
+
+* {
+  font-family: 'Indie Flower', cursive;
+}
+
+html, body {
+  background-color: $colorWrite;
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+a:active {
+  text-decoration: none;
+}
