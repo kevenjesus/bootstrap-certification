@@ -8,18 +8,18 @@ const gulp    = require( 'gulp' )
     , notify  = require( 'gulp-notify' )
 ;
 
-// task to compile style.scss files
+// task to compile bundle.scss files
 gulp.task( 'sass', function() {
-  return gulp.src( './scss/_style.scss' )
+  return gulp.src( './source/assets/scss/bundle.scss' )
     .pipe( sass() )
     .on( 'error', notify.onError( { title:'erro ao compilar', message:'<%= error.message %>' } ) )
-    .pipe( gulp.dest( './css' ) )
+    .pipe( gulp.dest( './source/assets/css/' ) )
 });
 
 // task watch
 gulp.task( 'sass:watch', function() {
-  gulp.watch( './scss/**/*.scss', [ 'sass' ] );
+  gulp.watch( './source/assets/scss/**/*.scss', [ 'sass' ] );
 });
 
 // task default
-gulp.task( 'default', [ 'sass', 'sass:watch' ] );
+gulp.task( 'default', [ 'sass:watch' ] );
