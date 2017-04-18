@@ -1,6 +1,6 @@
 {
   "name": "practical-activity-sass",
-  "description": "> Practical activity regarding the module - SASS.",
+  "description": "Practical activity regarding the module - SASS.",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
